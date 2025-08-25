@@ -1,5 +1,5 @@
-NukeIndustry.exe                           ⎯⠀❐⠀⤬ 
-📂Documentos 
-    └📁programação
-           └📁Habilidade 
-                  └⚠️ Esta pasta está vazia.
+NukeIndustry.exe                           ⎯⠀❐⠀⤬   
+📂Documentos  
+    └📁programação  
+            └📁Habilidade   
+                   └⚠️ Esta pasta está vazia.  
